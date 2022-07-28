@@ -1803,6 +1803,14 @@ video {
     height: 300px;
   }
 
+  .sm\:w-full {
+    width: 100%;
+  }
+
+  .sm\:w-\[100\%\] {
+    width: 100%;
+  }
+
   .sm\:px-4 {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -1859,6 +1867,10 @@ video {
 
   .md\:h-auto {
     height: auto;
+  }
+
+  .md\:h-\[200px\] {
+    height: 200px;
   }
 
   .md\:w-auto {
